@@ -6,6 +6,13 @@ export default {
   component: Avatar,
   tags: ['autodocs'],
   args: { src: 'https://github.com/venturions.png', alt: 'Alex da Costa' },
+  argTypes: {
+    src: {
+      children: {
+        control: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
