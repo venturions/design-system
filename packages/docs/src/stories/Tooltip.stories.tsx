@@ -2,7 +2,7 @@ import { Meta, StoryObj } from '@storybook/react'
 import { Box, Button, Tooltip, TooltipProps } from '@venturions-ignite-ui/react'
 
 export default {
-  title: 'Form/Tooltip',
+  title: 'Notification/Tooltip',
   component: Tooltip,
   tags: ['autodocs'],
   args: {
