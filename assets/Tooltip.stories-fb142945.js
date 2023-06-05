@@ -1,0 +1,4 @@
+import{j as o}from"./jsx-runtime-0741ab7f.js";import{e as i,c as n,B as c}from"./index-96701ed8.js";import"./index-902e4630.js";import"./_commonjsHelpers-725317a4.js";import"./extends-98964cd2.js";const g={title:"Notification/Tooltip",component:i,tags:["autodocs"],args:{children:o.jsx(n,{children:"Hover me"}),content:"This is a tooltip"},argTypes:{children:{control:{type:null}}},decorators:[a=>o.jsx(c,{css:{display:"flex",alignItems:"center",justifyContent:"center",padding:"$20",background:"$gray500"},children:a()})]},r={args:{}};var t,e,s;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {}
+}`,...(s=(e=r.parameters)==null?void 0:e.docs)==null?void 0:s.source}}};const x=["Primary"];export{r as Primary,x as __namedExportsOrder,g as default};
+//# sourceMappingURL=Tooltip.stories-fb142945.js.map
