@@ -1,1 +1,6 @@
-{ "extends": "@ignite-ui/ts-config/react.json", "include": ["src"] }
+{
+    "extends": "@venturions-ignite-ui/ts-config/react.json",
+    "include": [
+        "src"
+    ]
+}
